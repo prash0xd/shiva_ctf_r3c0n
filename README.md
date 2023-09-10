@@ -16,6 +16,6 @@ Use Shiva to perform all-in-one reconnaissance and security assessments. It simp
 2. Run the script with your target domain or IP.
 3. Sit back and let Shiva gather valuable information.
 
-Explore and contribute to Shiva on GitHub: [Shiva Recon Tool](https://github.com/yourusername/Shiva)
+Explore and contribute to Shiva on GitHub: [Shiva Recon Tool](https://github.com/prash0xd/shiva_ctf_r3c0n)
 
 Stay vigilant, and may Shiva guide you on your cybersecurity journey! 🌐🔐
